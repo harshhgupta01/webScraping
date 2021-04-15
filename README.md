@@ -1,4 +1,4 @@
 Run using the command
-python <filaname>
+python filename
 
 A simple python program for webscraping
